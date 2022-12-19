@@ -1,0 +1,7 @@
+variant: fcos
+version: 1.4.0
+passwd:
+  users:
+    - name: core
+      ssh_authorized_keys:
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQD0FTYsfQxr6b5ktXhs7FEMUxuN7CNj7l0EDKGrgol+7Wjnv9zCO2/5YzyMYUSmgk/EM4YVJYIAtlj2lxZtL2T4fgOt1d1eSFqHBJ04AJbia7r+H5sTEB/JEdGFYOCDH5o4CJVdgnYq04oDmjZCWC3UAc+him2J9djSayf7FN4Dvzy4MdEXh+JC2SSNbirq4qlZjlfWdp0Q7j9Ig3E6xOG1Eh3cfecPNsJnwDbPnRD0rkpHUF0lkqmxoTHwrp13m8tmGf3hEoXz5GUASicgjl21X3A/gaxj7Lf9cbSKmNqPXpk17KpjM08GdgFfcm3EkBFYI3UZjGrHA6b1wT2qeBdq/grUfXhF2cT9D5hh8UbF6X+M8gW4sKypftTZ5nksmu7AB2t5+Piq+xMLGYh8VTmDjt/gCTzRIOYdmqi7GJIZ7u+UzielhID8G21e4mR/vdDiMoRirhbeCUPn76pQE8lczWtEvdD7zm0LaZGeKgNk1mVJad7sQ5KF220CLEa29YU= thoma@DESKTOP-70O2HHN
